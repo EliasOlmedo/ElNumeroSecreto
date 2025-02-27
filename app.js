@@ -74,5 +74,3 @@ function reiniciarJuego() {
 }
 
 condicionesIniciales();
-
-
